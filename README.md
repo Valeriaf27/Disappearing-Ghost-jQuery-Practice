@@ -1,1 +1,0 @@
-# Disappearing-Ghost-jQuery-Practice
